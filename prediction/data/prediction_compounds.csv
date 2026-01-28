@@ -1,0 +1,6 @@
+inchi,Smiles,Name,moa
+WDFKMLRRRCGAKS-UHFFFAOYSA-N,Oc1c(Cl)cc(Cl)c2cccnc12,Chloroxine,DNA inhibitor
+RSUVYMGADVXGOU-BUHFOSPRSA-N,CN(C)CCCSc1ccccc1NC(=O)\C=C\c1ccccc1,Cinanserin,5-HT receptor modulator
+ZPFXAOWNKLFJDN-UHFFFAOYSA-N,CCN(CCCc1ccccc1)CCCc1ccccc1,Alverine,5-HT receptor modulator
+QHADVLVFMKEIIP-UHFFFAOYSA-N,Cc1ccc(C(=O)Nc2ccc(Oc3cc4cnn(C)c4cc3-c3cn[nH]c3)c(F)c2)c(=O)n1-c1ccc(F)cc1,Merestinib,EGFR/FGFR/HGFR inhibitor
+FNHKPVJBJVTLMP-UHFFFAOYSA-N,CNC(=O)c1cc(Oc2ccc(NC(=O)Nc3ccc(Cl)c(C(F)(F)F)c3)c(F)c2)ccn1,Regorafenib,EGFR/FGFR/HGFR inhibitor

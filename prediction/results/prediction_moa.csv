@@ -1,0 +1,35 @@
+MOA,QHADVLVFMKEIIP-UHFFFAOYSA-N,ZPFXAOWNKLFJDN-UHFFFAOYSA-N,RSUVYMGADVXGOU-BUHFOSPRSA-N,FNHKPVJBJVTLMP-UHFFFAOYSA-N,WDFKMLRRRCGAKS-UHFFFAOYSA-N
+5-HT receptor modulator,0.0,0.5028,0.3359,0.0004,0.0
+Adrenergic receptor agonist,0.0,0.0044,0.0195,0.0138,1e-04
+Androgen receptor agonist,0.0,0.004,0.0686,0.0002,1e-04
+Bromodomain inhibitor,0.0,0.0042,0.0191,0.0004,1e-04
+Calcium channel blocker,0.0,0.0023,0.0115,0.0002,0.0
+Cyclooxygenase inhibitor,0.0,0.0036,0.0186,0.0002,1e-04
+DNA inhibitor,0.0,0.0036,0.0153,0.0002,0.9952
+EGFR/FGFR/HGFR inhibitor,0.9985,0.002,0.0069,0.9394,0.0
+Estrogen receptor antagonist,0.0,0.0037,0.0166,0.0006,0.0
+FKBP inhibitor,0.0,0.0039,0.0199,0.0002,1e-04
+GABA receptor modulator,0.0,0.0026,0.0127,1e-04,0.0003
+Glucocorticoid receptor agonist,1e-04,0.0046,0.0233,0.0003,1e-04
+Glutamate receptor agonist,0.0,0.0028,0.0129,1e-04,1e-04
+Glutamate receptor antagonist,0.0,0.0023,0.0087,1e-04,0.0002
+Histamine receptor antagonist,1e-04,0.031,0.0802,0.0002,0.0004
+Histone lysine methyltransferase inhibitor,0.0,0.0037,0.0192,0.0002,1e-04
+MEK inhibitor,0.0,0.0041,0.0207,0.0003,1e-04
+Matrix metalloprotease inhibitor,0.0,0.0028,0.0215,0.0002,1e-04
+Melatonin receptor agonist,0.0,0.0036,0.0181,0.0004,1e-04
+Neurokinin receptor antagonist,0.0,0.0057,0.0203,0.0002,1e-04
+Opioid receptor modulator,0.0,0.3383,0.0145,0.0002,0.0013
+PARP inhibitor,0.0,0.0047,0.0192,0.0002,1e-04
+PI3K inhibitor,0.0,0.0014,0.0059,0.0003,0.0
+PPAR receptor agonist,0.0,0.0055,0.0142,0.0004,1e-04
+Phosphodiesterase inhibitor,0.0,0.0036,0.0172,0.0002,1e-04
+Progesterone receptor modulator,0.0,0.0017,0.0172,1e-04,0.0002
+Sodium glucose cotransporter inhibitor,0.0,0.0036,0.0179,0.0002,0.0002
+Stem cell growth factor receptor inhibitor,1e-04,0.0054,0.0187,0.0004,1e-04
+Topoisomerase inhibitor,0.0,0.0031,0.0154,0.0002,0.0003
+Tubulin modulator,0.0,0.0204,0.0175,0.0005,0.0003
+Tyrosine-protein kinase BTK inhibitor,0.0,0.0037,0.0188,0.0366,1e-04
+Vitamin D receptor agonist,1e-04,0.004,0.0201,0.0003,1e-04
+mTOR inhibitor,1e-04,0.0028,0.0137,0.0004,0.0
+p38 MAPK inhibitor,0.0002,0.004,0.0202,0.0022,1e-04
