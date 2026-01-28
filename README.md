@@ -14,6 +14,8 @@ or
 python infer.py  --model_path ../prediction/model/inference/infer_model_best.pt --molecule_path ../prediction/data/prediction_compounds.csv --molecule_feature_path ../prediction/data/prediction_compounds.pkl --seed 42
 ```
 ### Predicting MOA via inferred morphological profiles
+Unzip the xgboost.zip file located in the prediction/model/classifier directory.
+Then, follow the steps below to perform predictions.
 ```
 > ./predict.sh
 ```
